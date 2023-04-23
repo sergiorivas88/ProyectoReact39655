@@ -1,0 +1,162 @@
+[
+      {
+            "id": 1,
+            "idCategoria": 1,
+            "nombre": "LEGO HARRY POTTER",
+            "marca": "LEGO",
+            "modelo": "HP",
+            "precio": 2800,
+            "stock": 32,
+            "img": "/img/P1.jpg"
+      },
+      {
+            "id": 2,
+            "idCategoria": 4,
+            "nombre": "CAJA MUSICAL",
+            "marca": "MusicBox",
+            "version": "Beast",
+            "precio": 1200,
+            "stock": 30,
+            "img": "/img/cajamusical.jpg"
+      },
+      {
+            "id": 3,
+            "idCategoria": 4,
+            "nombre": "BILLETERA HOMBRE",
+            "marca": "BILLETERA",
+            "version": "2023",
+            "precio": 1200,
+            "stock": 30,
+            "img": "/img/billetera.jpg"
+      },
+      {
+            "id": 4,
+            "idCategoria": 2,
+            "nombre": "CUENTO DE HADAS",
+            "marca": "Stephen King",
+            "modelo": "Libro",
+            "precio": 2000,
+            "stock": 5,
+            "img": "/img/KING.jpg"
+      },
+      {
+            "id": 5,
+            "idCategoria": 1,
+            "nombre": "BARBIE",
+            "marca": "MATELL",
+            "modelo": "varios Diseños",
+            "precio": 1200,
+            "stock": 40,
+            "img": "/img/P2.jpg"
+      },
+      {
+            "id": 6,
+            "idCategoria": 3,
+            "nombre": "MARCADORES FABER CASTELL",
+            "marca": "FABER CASTELL",
+            "modelo": "marcadores",
+            "precio": 1000,
+            "stock": 50,
+            "img": "/img/FABER.jpg"
+      },
+      {
+            "id": 7,
+            "idCategoria": 3,
+            "nombre": "BLOCK HOJAS CABALLITO 1/2",
+            "marca": "CABALLITO",
+            "modelo": "HOJAS",
+            "precio": 399,
+            "stock": 10,
+            "img": "/img/CABALLITO.jpg"
+      },
+      {
+            "id": 8,
+            "idCategoria": 2,
+            "nombre": "CANCION DE HIELO Y FUEGO",
+            "marca": "Juego de Tronos",
+            "modelo": "J.RR.Martin",
+            "precio": 5800,
+            "stock": 4,
+            "img": "/img/PACK.jpg"
+      },
+      {
+            "id": 9,
+            "idCategoria": 2,
+            "nombre": "JUEGOS DEL HAMBRE SAGA",
+            "marca": "JH",
+            "modelo": "Hambre",
+            "precio": 3000,
+            "stock": 10,
+            "img": "/img/hambre.jpg"
+      },
+      {
+            "id": 10,
+            "idCategoria": 3,
+            "nombre": "LAPIZ DIBUJO",
+            "marca": "FABER CASTELL",
+            "modelo": "CASTELL",
+            "precio": 675,
+            "stock": 28,
+            "img": "/img/CASTELL.jpg"
+      },
+      {
+            "id": 11,
+            "idCategoria": 2,
+            "nombre": "Saga Harry Potter + Estante de libro madera",
+            "marca": "Harry Potter",
+            "modelo": "J.K.Rowling",
+            "precio": 38000,
+            "stock": 4,
+            "img": "/img/SAGA.jpg"
+      },
+      {
+            "id": 12,
+            "idCategoria": 1,
+            "nombre": "PLAY STATION 5",
+            "marca": "PS5",
+            "modelo": "PS5",
+            "precio": 78000,
+            "stock": 10,
+            "img": "/img/P4.jpg"
+      },
+      {
+            "id": 13,
+            "idCategoria": 1,
+            "nombre": "HOT WHEELS",
+            "marca": "MATTEL",
+            "modelo": "HOT WHEELS",
+            "precio": 700,
+            "stock": 29,
+            "img": "/img/P3.jpg"
+      },
+      {
+            "id": 14,
+            "idCategoria": 3,
+            "nombre": "LAPICERAS PILOT X4",
+            "marca": "PILOT",
+            "modelo": "BRILLO",
+            "precio": 430,
+            "stock": 200,
+            "img": "/img/PILOT.jpg"
+      },
+      {
+            "id": 15,
+            "idCategoria": 4,
+            "nombre": "CARTERA DAMA",
+            "marca": "MCartera",
+            "version": "2023",
+            "precio": 2800,
+            "stock": 10,
+            "img": "/img/carteradama.jpg"
+      },
+      {
+            "id": 16,
+            "idCategoria": 4,
+            "nombre": "JARRONES FINOS",
+            "marca": "Jarras",
+            "version": "2024",
+            "precio": 3000,
+            "stock": 5,
+            "img": "/img/jarrones.jpg"
+      }
+]

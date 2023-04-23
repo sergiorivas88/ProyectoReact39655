@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+
+  font-weight: bold;
+  font-size: 25px;
+}
+
+div h1 {
+  font-weight: bold;
+  color: black;
+}
+
+.row h1 {
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+.row .card-title1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.row .card-text1 {
+  text-align: center;
+}
+
+.row a {
+  text-align: center;
+}
+
+.row .card {
+  display: flex;
+  align-items: center;
+}
+
+.row .card .card-img-top {
+  margin-top: 20px;
+  width: 170px;
+  height: 150px;
+
+}
+
+.row h5 {
+  font-weight: bold;
+}
+
+.divInicial {
+  background-color: aqua;
+}
+
+.itemDetail {
+  max-width: 940px !important;
+  margin-top: 10px;
+  border: 5px solid black !important;
+
+}
+
+.divForm {
+  margin-top: 20px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+
+
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .App-link {
+    color: #61dafb;
+  }
+
+}
+
+nav {
+  margin-bottom: 5%;
+}
+
+nav .container .navbar-nav a {
+  color: white;
+  font-weight: bold;
+}
+
+.App nav .container .container-cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+nav .container p {
+  color: white;
+  font-weight: bold;
+}
+
+.row {
+
+  margin-right: 10% !important;
+  margin-left: 10% !important;
+  gap: 5%;
+  margin-bottom: 3%;
+
+}
+
+.row .card {
+  margin-bottom: 3%;
+  border: 6px ridge;
+  border-radius: 15px;
+}
+
+.App div h1 {
+  margin-top: 2%;
+  font-size: 30px;
+  font-weight: bold;
+}
